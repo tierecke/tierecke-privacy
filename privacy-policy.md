@@ -14,6 +14,7 @@ This Services does not uses these “cookies” explicitly. However, the app may
 
 Location Information
 Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.
+The location is kept ONLY within the app. I do not store it anywhere in the cloud. It could be that the mapping service I use or other external service do keep it or use it.
 
 Device Information
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.
