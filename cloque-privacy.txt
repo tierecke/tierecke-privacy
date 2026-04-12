@@ -1,0 +1,3 @@
+This app doesn't keep anything about you.
+This app doesn't connect to the Internet and everything is stored locally only
+This app is free and has no ads
