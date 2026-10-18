@@ -40,6 +40,19 @@ Rikavon is intended for people aged 13 and older. We do not knowingly collect in
 
 You can ask us at any time to see or delete the data we keep about you, including your player record and the activity log entries tied to it. Email us at the address below with your player name and player number (shown in your profile) and we will take care of it.
 
+## Delete your account and data
+
+To delete your Rikavon player and the data tied to it:
+
+1. Send an email to tierecke@gmail.com with the subject "Delete my Rikavon data".
+2. Include your player name and player number (shown in your profile in the app).
+
+What we delete: your player profile (name, country, avatar, gender setting), your games, points, friends, achievements, feedback, and the link to your Google Play Games account.
+
+What we keep: nothing that identifies you. Anonymous, aggregate game results may remain.
+
+We complete deletion within 30 days of your request.
+
 ## Changes to this policy
 
 If we change this policy, we will post the new version on this page and update the date above.
